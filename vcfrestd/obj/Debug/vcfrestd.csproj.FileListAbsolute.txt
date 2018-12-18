@@ -1,0 +1,7 @@
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\bin\vcfrestd.dll.config
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\bin\vcfrestd.dll
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\bin\vcfrestd.pdb
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\obj\Debug\vcfrestd.csprojAssemblyReference.cache
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\obj\Debug\vcfrestd.csproj.CoreCompileInputs.cache
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\obj\Debug\vcfrestd.dll
+C:\Users\Ad\source\repos\vcfrestd\vcfrestd\obj\Debug\vcfrestd.pdb
